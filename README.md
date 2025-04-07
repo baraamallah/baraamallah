@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Baraa El-Mallah</h1>
 <h3 align="center">IT Student @Rafic Hariri Technical Institute - Lebanon / Saida</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/batman300](https://github.com/baraamallah)
+- 👨‍💻 All of my projects are available at [https://github.com/baraamallah](https://github.com/baraamallah)
 
 - 📝 I regularly write articles on [https://sites.google.com/view/baraapage/home](https://sites.google.com/view/baraapage/home)
 
