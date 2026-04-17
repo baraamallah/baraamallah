@@ -92,9 +92,6 @@
   <a href="https://github.com/baraamallah/HARMUN_TRACKER">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=baraamallah&repo=HARMUN_TRACKER&title_color=22c55e&text_color=f97316&icon_color=444e59&bg_color=181824&hide_border=true&locale=en" alt="HARMUN Tracker" />
   </a>
-  <a href="https://github.com/baraamallah/HARMUN-Official-Page">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=baraamallah&repo=HARMUN-Official-Page&title_color=22c55e&text_color=f97316&icon_color=444e59&bg_color=181824&hide_border=true&locale=en" alt="HARMUN Official Page" />
-  </a>
   <a href="https://github.com/baraamallah/rhhs-classroom-champion-app">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=baraamallah&repo=rhhs-classroom-champion-app&title_color=22c55e&text_color=f97316&icon_color=444e59&bg_color=181824&hide_border=true&locale=en" alt="RHHS Classroom Champion App" />
   </a>
