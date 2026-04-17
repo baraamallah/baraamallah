@@ -1,13 +1,26 @@
-# Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30px"> My name is Baraa El-Mallah
+<h1 align="center">
+  Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="40px"> My name is Baraa El-Mallah
+</h1>
 
-### IT Student At Rafic Hariri Technical Institute
-
-* 🌍 I'm based in Lebanon
-* ✉️ You can contact me at [baraa.elmallah@gmail.com](mailto:baraa.elmallah@gmail.com)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=22C55E&center=true&vCenter=true&width=500&lines=IT+Student+at+RHTI;Flutter+%26+Mobile+App+Developer;Passionate+about+Arduino+%26+Tech" alt="Typing SVG" />
+  </a>
+</p>
 
 ---
 
-### 🌐 Socials
+### 👨‍💻 About Me
+
+* 🌍 I'm based in **Lebanon**
+* 🎓 Studying IT at the **Rafic Hariri Technical Institute**
+* 📱 Currently focusing on **Flutter** mobile development and **Arduino** microcontrollers
+* ✉️ Reach out to me at: [baraa.elmallah@gmail.com](mailto:baraa.elmallah@gmail.com)
+
+---
+
+### 🌐 Let's Connect
+
 <p align="left">
   <a href="https://www.github.com/baraamallah" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" /></a>&nbsp;
   <a href="https://www.x.com/baraa_elmalah" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter" /></a>&nbsp;
@@ -18,7 +31,10 @@
   <a href="https://discord.com/users/darkknight_b2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" /></a>
 </p>
 
+---
+
 ### 💻 Languages and Tools
+
 <p align="left">
   <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" width="36" height="36" /></a>
   <a href="https://dart.dev/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" alt="Dart" width="36" height="36" /></a>
@@ -34,11 +50,9 @@
   <a href="https://vuejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" alt="Vue" width="36" height="36" /></a>
   <a href="https://tailwindcss.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" width="36" height="36" /></a>
   <a href="https://vitejs.dev/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" alt="Vite" width="36" height="36" /></a>
-  <a href="https://ui.shadcn.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/shadcnui-colored-dark.svg" alt="Shadcn/ui" width="36" height="36" /></a>
   <a href="https://nodejs.org/en/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" width="36" height="36" /></a>
   <a href="https://firebase.google.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" alt="Firebase" width="36" height="36" /></a>
   <a href="https://supabase.io/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" alt="Supabase" width="36" height="36" /></a>
-  <a href="https://clerk.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/clerk-colored-dark.svg" alt="Clerk" width="36" height="36" /></a>
   <a href="https://render.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/render-colored.svg" alt="Render" width="36" height="36" /></a>
   <a href="https://www.adobe.com/uk/products/premiere.html" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored-dark.svg" alt="Premiere Pro" width="36" height="36" /></a>
   <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" alt="Photoshop" width="36" height="36" /></a>
@@ -59,28 +73,22 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
   <a href="https://github.com/baraamallah">
-    <img src="https://github-readme-stats.vercel.app/api?username=baraamallah&show_icons=true&count_private=true&title_color=22c55e&text_color=f97316&icon_color=444e59&bg_color=181824&hide_border=true" alt="Baraa's GitHub stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=baraamallah&show_icons=true&count_private=true&title_color=22c55e&text_color=f97316&icon_color=444e59&bg_color=181824&hide_border=true" height="165" alt="Baraa's GitHub stats" />
   </a>
   <a href="https://github.com/baraamallah">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=baraamallah&stroke=f97316&background=181824&ring=22c55e&fire=22c55e&currStreakNum=f97316&currStreakLabel=22c55e&sideNums=f97316&sideLabels=f97316&dates=f97316&hide_border=true" alt="Baraa's Streak" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baraamallah&langs_count=6&title_color=22c55e&text_color=f97316&icon_color=444e59&bg_color=181824&hide_border=true&locale=en&layout=compact" height="165" alt="Top Languages" />
   </a>
-</div>
-<br/>
-<div align="center">
-  <a href="https://github.com/baraamallah">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baraamallah&langs_count=10&title_color=22c55e&text_color=f97316&icon_color=444e59&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
-  </a>
-</div>
+</p>
 
 ---
 
-### 🏆 Top Repositories
+### 🏆 Top Projects
 
-<div align="center">
+<p align="center">
   <a href="https://github.com/baraamallah/HARMUN_TRACKER">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=baraamallah&repo=HARMUN_TRACKER&title_color=22c55e&text_color=f97316&icon_color=444e59&bg_color=181824&hide_border=true&locale=en" alt="HARMUN Tracker" />
   </a>
@@ -90,4 +98,4 @@
   <a href="https://github.com/baraamallah/rhhs-classroom-champion-app">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=baraamallah&repo=rhhs-classroom-champion-app&title_color=22c55e&text_color=f97316&icon_color=444e59&bg_color=181824&hide_border=true&locale=en" alt="RHHS Classroom Champion App" />
   </a>
-</div>
+</p>
