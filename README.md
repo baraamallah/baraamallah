@@ -14,7 +14,6 @@
 
 * 🌍 I'm based in **Lebanon**
 * 🎓 Studying IT at the **Rafic Hariri Technical Institute**
-* 📱 Currently focusing on **Flutter** mobile development and **Arduino** microcontrollers
 * ✉️ Reach out to me at: [baraa.elmallah@gmail.com](mailto:baraa.elmallah@gmail.com)
 
 ---
